@@ -1,0 +1,70 @@
+*{
+    margin: 0;padding: 0;
+    font: 1em sans-serif;
+}
+.box{
+    padding: 15px;
+    border: 1px  solid black;
+    margin: 5px 10px;
+    width: 60px;
+    text-align: center;
+    border-radius: 10%;
+}
+#box1{
+    background-color: red;
+}
+#box2{
+    background-color: rebeccapurple; margin-left: 100px;
+    ;
+}
+#box3{
+    background-color: aquamarine;margin-left: 200px;
+}
+#box4{
+    background-color: royalblue;margin-left: 300px;
+}
+#box5{
+    background-color: orange;margin-left: 400px;
+}
+#box6{
+    background-color: rgb(217, 255, 127);margin-left: 500px;
+}
+#box7{
+    background-color: lawngreen;margin-left: 600px
+}
+#box8{
+    background-color: skyblue;margin-left: 500px;
+}
+
+#box9{
+    background-color: rgb(253, 127, 255);margin-left: 400px;
+}
+#box10{
+    background-color: green;margin-left: 300px;
+}#box11{
+    background-color: rgb(255, 195, 127);margin-left: 200px;
+}
+#box12{
+    background-color: rgb(80, 16, 112);margin-left: 100px;
+}
+#box13{
+    background-color: rgb(180, 33, 77);
+}
+#box14{
+    background-color: rgb(151, 219, 25);margin-left: 100px;
+}
+#box15{
+    background-color: rgb(108, 215, 237);margin-left: 200px;
+}
+#box16{
+    background-color: rgb(111, 17, 148);margin-left: 300px;
+}
+#box17{
+    background-color: rgb(216, 172, 28);margin-left: 200px;
+}
+#box18{
+    background-color: rgb(27, 21, 207);margin-left: 100px;
+}
+#box19{
+    background-color: rgb(231, 25, 25);
+}
